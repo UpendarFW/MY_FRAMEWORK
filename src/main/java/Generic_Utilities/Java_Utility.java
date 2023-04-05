@@ -9,4 +9,8 @@ public class Java_Utility {
 		int random=r.nextInt(10000);
 		return random;
 	}
+	
+	public void getSysdate() {
+		System.out.println("System date");
+	}
 }
