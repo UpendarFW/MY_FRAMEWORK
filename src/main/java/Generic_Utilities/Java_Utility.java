@@ -1,5 +1,6 @@
 package Generic_Utilities;
 
+import java.util.Date;
 import java.util.Random;
 
 public class Java_Utility {
@@ -10,7 +11,9 @@ public class Java_Utility {
 		return random;
 	}
 	
-	public void getSysdate() {
-		System.out.println("System date");
+	public String getSysdate() {
+		Date d=new Date();
+		String date=d.toString();
+		return date;
 	}
 }
