@@ -9,8 +9,12 @@ public class DemoTest {
 		System.out.println("Sample 1 Script");
 		
 
-		System.out.println("Branch 2 ");
+		System.out.println("Program 2 ");
 
-		System.out.println("Branch 1");
+		System.out.println("Program 1");
+		
+		System.out.println("Original Branch");
+		
+		
 	}
 }
