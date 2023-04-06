@@ -8,6 +8,9 @@ public class DemoTest {
 	public void sample1() {
 		System.out.println("Sample 1 Script");
 		
+
 		System.out.println("Branch 2 ");
+
+		System.out.println("Branch 1");
 	}
 }
